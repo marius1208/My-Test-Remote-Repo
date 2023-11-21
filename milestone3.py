@@ -15,7 +15,7 @@ User input if it is a 1 character long letter
 def validate_input():
     while(True):
         guess = input ("Guess a letter:\n")
-        guess.lower
+        guess = guess.lower()
         if (len(guess) == 1 and guess.isalpha()== True ):
            return guess
         else:
