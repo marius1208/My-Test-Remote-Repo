@@ -1,6 +1,6 @@
 # Hangman Project
 
-## This project contains 5 python scripts which show my progression towards creating a simple Hangman game
+## This project contains 4 python scripts which show my progression towards creating a simple Hangman game
 
 ## No installation requirements
 
