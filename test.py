@@ -1,5 +1,4 @@
-fruits = ["apple", "banana", "cherry"]
-fruits[1] = "mango"
-
-print(fruits)
-print(type(fruits[1]))
+word = "Banana"
+unique_letters = set(word)            
+num_letters = len(unique_letters)                            #The number of UNIQUE letters in the word that have not been guessed yet
+print(num_letters)
