@@ -1,7 +1,7 @@
 # Hangman Project
 
 ## This project contains 5 python scripts which show my progression towards creating a simple Hangman game
-## milestone5.py is the funcioning python file with wich the game can be ran 
+## milestone5.py is the functioning python file with wich the game can be ran 
 
 ## No installation requirements
 
